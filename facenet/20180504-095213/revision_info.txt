@@ -1,0 +1,6 @@
+arguments: /Users/yliang/tensoflow/bin/train/train_softmax.py
+--------------------
+tensorflow version: 1.6.0
+--------------------
+git hash: 
+--------------------

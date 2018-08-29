@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/yliang/models/facenet/20180418-153248/model-20180418-153248.ckpt-1"
+all_model_checkpoint_paths: "/Users/yliang/models/facenet/20180418-153248/model-20180418-153248.ckpt-1"

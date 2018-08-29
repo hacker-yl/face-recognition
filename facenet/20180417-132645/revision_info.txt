@@ -1,0 +1,6 @@
+arguments: /Users/yliang/tensoflow/bin/second/train_tripletloss.py
+--------------------
+tensorflow version: 1.6.0
+--------------------
+git hash: 
+--------------------
